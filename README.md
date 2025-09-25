@@ -79,8 +79,8 @@ I love coding 💻❤️
 
 ---
 
-## 🏆 Most Used Languages  
+## 🏆 GitHub Streak & Contributions  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladeFaith&langs_count=8&theme=radical&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=koladeFaith&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
