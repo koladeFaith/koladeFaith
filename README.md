@@ -1,40 +1,37 @@
-koladeFaith/README.md
+# 👋 Hi there, I'm **Kolade Faith**  
 
-## 👋 Hi there
-
-I'm Kolade Faith  
-💻 Frontend Engineer  
+### 💻 Frontend Engineer  
 
 ---
 
-## 🔭 What I’m working on
+### 🔭 What I’m Working On  
 - RBAC dashboards & modern React UIs  
 - Building small projects with React  
 - Learning how to structure backend apps with Express  
 
-## 🌱 What I’m learning
+### 🌱 What I’m Learning  
 - Node.js & Express.js best practices  
 - API security & authentication (JWT, middleware)  
 
-## 👯 Open to collaborating on
+### 👯 Open to Collaborating On  
 - Frontend projects (React, Next.js, Tailwind CSS)  
 - Fullstack apps  
 
-## 🤝 Need help with
+### 🤝 Need Help With  
 - Structuring Express apps  
 
-## 💬 Ask me about
+### 💬 Ask Me About  
 - React, Next.js, Tailwind CSS  
 - Express.js  
 
-## ⚡ Fun fact
+### ⚡ Fun Fact  
 I love coding 💻❤️  
 
 ---
 
 ## 💻 Tech Stack  
 
-### Languages  
+#### Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -42,7 +39,7 @@ I love coding 💻❤️
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Frontend  
+#### Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -51,21 +48,21 @@ I love coding 💻❤️
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="SASS" />
 </p>
 
-### Backend & Database  
+#### Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Deployment & Hosting  
+#### Deployment & Hosting  
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### Other Tools  
+#### Other Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
@@ -78,5 +75,12 @@ I love coding 💻❤️
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=koladeFaith&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladeFaith&layout=compact&theme=radical" height="160" />
+</p>  
+
+---
+
+## 🏆 Most Used Languages  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladeFaith&langs_count=8&theme=radical&layout=compact" />
 </p>
- 
