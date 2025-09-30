@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Kolade Faith**  
 
-### 💻 Frontend Engineer  
+### 💻 Software Engineer || Full-stack Web Developer || Aspiring AI Engineer
 
 ---
 
@@ -84,3 +84,22 @@ I love coding 💻❤️
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=koladeFaith&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://wa.me/+2349160824156" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kolade6536/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/faith-kolade-817357384/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
