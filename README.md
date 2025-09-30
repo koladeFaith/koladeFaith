@@ -1,35 +1,20 @@
 # 👋 Hi there, I'm **Kolade Faith**  
 
-### 💻 Software Engineer || Full-stack Web Developer || Aspiring AI Engineer
+🚀 **Software Engineer | Full-stack Web Developer | Aspiring AI Engineer**  
 
 ---
 
-### 🔭 What I’m Working On  
-- RBAC dashboards & modern React UIs  
-- Building small projects with React  
-- Learning how to structure backend apps with Express  
-
-### 🌱 What I’m Learning  
-- Node.js & Express.js best practices  
-- API security & authentication (JWT, middleware)  
-
-### 👯 Open to Collaborating On  
-- Frontend projects (React, Next.js, Tailwind CSS)  
-- Fullstack apps  
-
-### 🤝 Need Help With  
-- Structuring Express apps  
-
-### 💬 Ask Me About  
-- React, Next.js, Tailwind CSS  
-- Express.js  
-
-### ⚡ Fun Fact  
-I love coding 💻❤️  
+### 👨‍💻 About Me
+- 🔭 Currently working on **RBAC dashboards & modern React UIs**  
+- 🌱 Learning **Node.js, Express.js best practices**  
+- 🛡️ Exploring **API security & authentication (JWT, middleware)**  
+- 👯 Open to **Frontend & Fullstack collaborations**  
+- 💬 Ask me about **React, Next.js, Tailwind CSS, Express.js**  
+- ⚡ Fun fact: *I love coding 💻❤️*  
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
 #### Languages  
 <p align="left">
@@ -70,6 +55,14 @@ I love coding 💻❤️
 
 ---
 
+### 🌟 Featured Projects
+- [Google Keep Clone](https://google-keep-project.vercel.app/)  
+- [Food Delivery App](https://food-delivery-five-chi.vercel.app/)  
+- [Qoute](https://github.com/koladeFaith/Quote_api_react)  
+- [Caferio_Clone](https://caferio-ui.vercel.app/)  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="left">
@@ -79,13 +72,11 @@ I love coding 💻❤️
 
 ---
 
-## 🏆 GitHub Streak & Contributions  
+## 🏆 GitHub Streak  
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=koladeFaith&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
----
 
 ---
 
@@ -103,3 +94,5 @@ I love coding 💻❤️
 </p>
 
 ---
+
+✨ *"Code. Learn. Build. Repeat."*
