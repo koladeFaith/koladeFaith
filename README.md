@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Kolade Faith**  
 
-🚀 **Software Engineer | Full-stack Web Developer | Aspiring AI Engineer**  
+🚀 **Frontend Developer | Aspiring AI Engineer**  
 
 ---
 
